@@ -1,0 +1,10 @@
+.entry-element{
+    list-style-type: none;
+    margin: 5px;
+}
+
+.entry-element:hover{
+    background-color:#DCDCDC;
+    cursor: pointer;
+}
+
